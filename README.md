@@ -104,13 +104,13 @@ Avaliador de expressões numéricas simples com:
 Para obter os arquivos do projeto, você pode clonar este repositório usando o seguinte comando no seu terminal:
 
 ```bash
-git clone [https://github.com/AlicyRIbeiro/exercicios-assembly-lista-01.git](https://github.com/AlicyRibeiro/exercicios-assembly-lista-01.git)
+git clone https://github.com/AlicyRibeiro/lista01-assembly-x86-64.git(https://github.com/AlicyRibeiro/lista01-assembly-x86-64.git)
 ```
 
 Depois de clonar, entre na pasta do projeto:
 
 ```bash
-cd exercicios-assembly-lista-01
+cd lista01-assembly-x86-64
 ```
 
 ---
