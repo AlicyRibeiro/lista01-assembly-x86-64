@@ -51,52 +51,52 @@ Avaliador de expressões numéricas simples com:
 
 ```bash
 .
-├── Makefile # Makefile principal (compila Q1, Q2, Q4, Q5, Q7, Q8, Q9)
+├── Makefile                 # Makefile principal (compila Q1, Q2, Q4, Q5, Q7, Q8, Q9)
 ├── q1/
-│ ├── q1.asm
-│ |── Makefile
-| └── README.md  ← explicação da questão
+│   ├── q1.asm
+│   ├── Makefile
+│   └── README.md            # Explicação da questão
 ├── q2/
-│ ├── q2.asm
-│ |── Makefile
-| └── README.md  ← explicação da questão
+│   ├── q2.asm
+│   ├── Makefile
+│   └── README.md
 ├── q3/
-│ ├── main.c
-│ ├── q3.asm
-│ |── Makefile
-| └── README.md  ← explicação da questão
+│   ├── main.c
+│   ├── q3.asm
+│   ├── Makefile
+│   └── README.md
 ├── q4/
-│ ├── q4.asm
-│ |── Makefile
-| └── README.md  ← explicação da questão
+│   ├── q4.asm
+│   ├── Makefile
+│   └── README.md
 ├── q5/
-│ ├── q5.asm
-│ |── Makefile
-| └── README.md  ← explicação da questão
-├── q6/
-├── q6_pt4/  → Baseada na Q4 (não sinalizados)
-│   ├── q6v1.asm  (Entrada via prompt)
-│   ├── q6v2.asm  (Argumentos linha de comando)
-│   |── q6v3.asm  (Leitura de arquivo)
-|   └── README.md  ← explicação da questão
-│
-└── q6_pt5/  → Baseada na Q5 (sinalizados)
-│    ├── q6v4.asm  (Entrada via prompt)
-│    ├── q6v5.asm  (Argumentos linha de comando)
-│    |── q6v6.asm  (Leitura de arquivo)
-|    └── README.md  ← explicação da questão
+│   ├── q5.asm
+│   ├── Makefile
+│   └── README.md
+├── q6_pt4/                  # Baseada na Q4 (não sinalizados)
+│   ├── q6v1.asm             # Entrada via prompt
+│   ├── q6v2.asm             # Argumentos linha de comando
+│   ├── q6v3.asm             # Leitura de arquivo
+│   └── README.md
+├── q6_pt5/                  # Baseada na Q5 (sinalizados)
+│   ├── q6v4.asm             # Entrada via prompt
+│   ├── q6v5.asm             # Argumentos linha de comando
+│   ├── q6v6.asm             # Leitura de arquivo
+│   └── README.md
 ├── q7/
-│ ├── q7.asm
-│ |── Makefile
-| └── README.md  ← explicação da questão
+│   ├── q7.asm
+│   ├── Makefile
+│   └── README.md
 ├── q8/
-│ ├── q8.asm
-│ |── Makefile
-| └── README.md  ← explicação da questão
+│   ├── q8.asm
+│   ├── Makefile
+│   └── README.md
 └── q9/
-|  ├── q9.asm
-|  |── Makefile
-| └── README.md  ← explicação da questão
+│   ├── q9.asm
+│   ├── Makefile
+│   └── README.md
+│
+│   ├── README.md
 ```
 
 ---
