@@ -97,6 +97,7 @@ Avaliador de expressões numéricas simples com:
 │   └── README.md
 │
 │   ├── README.md
+└── Lista01.pdf  
 ```
 
 ---
